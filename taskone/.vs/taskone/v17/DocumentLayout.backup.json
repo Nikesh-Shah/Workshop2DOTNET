@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\dotnet\\workshop 2\\taskone\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C8E04DDF-B2D8-4681-BFA8-878724568212}|Task 4\\Task 4.csproj|c:\\users\\asus\\desktop\\dotnet\\workshop 2\\taskone\\task 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E04DDF-B2D8-4681-BFA8-878724568212}|Task 4\\Task 4.csproj|solutionrelative:task 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1DE2B635-D1C5-48E9-9CF1-B046CA72E483}|..\\Task 3\\Task 3.csproj|c:\\users\\asus\\desktop\\dotnet\\workshop 2\\task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -29,18 +33,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet\\workshop 2\\taskone\\Task 4\\Program.cs",
+              "RelativeDocumentMoniker": "Task 4\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\dotnet\\workshop 2\\taskone\\Task 4\\Program.cs*",
+              "RelativeToolTip": "Task 4\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:23:09.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet\\workshop 2\\Task 3\\Program.cs",
               "RelativeDocumentMoniker": "..\\Task 3\\Program.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\dotnet\\workshop 2\\Task 3\\Program.cs",
               "RelativeToolTip": "..\\Task 3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T17:12:03.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Circle.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet\\workshop 2\\task 2\\Circle.cs",
               "RelativeDocumentMoniker": "..\\task 2\\Circle.cs",
@@ -53,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet\\workshop 2\\task 2\\Program.cs",
               "RelativeDocumentMoniker": "..\\task 2\\Program.cs",
@@ -66,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet\\workshop 2\\taskone\\taskone\\Program.cs",
               "RelativeDocumentMoniker": "taskone\\Program.cs",
