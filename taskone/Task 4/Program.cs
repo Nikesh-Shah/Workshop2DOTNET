@@ -10,3 +10,5 @@ for (int i =0;i<=num.Length-1;i++)
 {
     Console.WriteLine(num[i]);
 }
+Console.WriteLine("\n");
+Console.WriteLine(Array.IndexOf(num,3));
